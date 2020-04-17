@@ -1,0 +1,21 @@
+Results
+07/15/2012
+
+-----------------------------------------------------------
+
+ITER = 50, TMAX = 50, tstep = 0.01f
+FINAL Rmax= 0.249058, Rmin= 0.248929, Diff= 0.000129
+
+ITER = 50, TMAX = 10, tstep = 0.01f
+FINAL Rmax= 0.249194, Rmin= 0.249088, Diff= 0.000105
+
+ITER = 50, TMAX = 3, tstep = 0.01f
+FINAL Rmax= 0.249216, Rmin= 0.249114, Diff= 0.000102
+
+ITER = 50, TMAX = 2, tstep = 0.01f
+FINAL Rmax= 0.249219, Rmin= 0.249117, Diff= 0.000102
+
+-----------------------------------------------------------
+
+ITER = 100, TMAX = 1, tstep = 0.0001f
+FINAL Rmax= 0.257098, Rmin= 0.241963, Diff= 0.015135
